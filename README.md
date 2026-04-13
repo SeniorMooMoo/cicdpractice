@@ -2,8 +2,6 @@
 
 A hands-on project for learning industry-standard CI/CD using **GitHub Actions**. The "product" is a small Node.js calculator API — the goal is to practice the workflow of safely shipping new features.
 
-
-
 ---
 
 ## What was set up
